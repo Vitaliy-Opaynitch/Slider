@@ -1,0 +1,12 @@
+<svg display="none" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="plus" viewBox="0 0 32 32" width="32" height="32">
+    <g>
+      <path id="plus" class="shp0" d="M13 1L19 1L19 31L13 31L13 1ZM1 13L31 13L31 19L1 19L1 13Z" />
+    </g>
+  </symbol>
+  <symbol id="figure" viewBox="0 0 47 47" width="47" height="47">
+    <g>
+      <path id="figure" class="shp0" d="M2 2L46 12L12 46L2 2Z" />
+    </g>
+  </symbol>
+</svg>
